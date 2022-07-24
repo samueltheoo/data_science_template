@@ -1,9 +1,9 @@
 {
-    "full_name": "Alamsyah Hanza",
-    "email": "alamhanz@gmail.com",
-    "project_name": "Great_Name",
-    "repo_name": "GreatProject",
-    "project_short_description": "Just a basic template for your awesome data project",
-    "release_date": "2013-07-10",
-    "venv_name":"virtual-environment-name"
+    "full_name": "Syair Dafiq Faizur Rahman",
+    "email": "syair.dafiq@gmail.com",
+    "project_name": "DataHack Analytics Vidhya",
+    "repo_name": "Analytics Vidhya Hackathon",
+    "project_short_description": "this is project for Analytics VidhyaHackathon ",
+    "release_date": "2022-07-24",
+    "venv_name":"DS"
 }
